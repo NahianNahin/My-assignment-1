@@ -38,3 +38,129 @@ button{
     border-radius: 8px;
     border: 0;
 }
+.donate-ammount{
+    margin: 100px 0;
+}
+.p3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.p4{
+    font-size: 16px;
+}
+.span{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+span{
+    font-size: 25px;
+    padding: 30px 18px;
+    background-color: #F4F6F6;
+    margin: 0 10px;
+    font-weight: 500;
+    border-radius: 6px;  
+}
+.orange{
+    color: #DC7633;
+    border: 2px solid #DC7633;
+    background-color: #FBEEE6;
+}
+.below-border{
+    height: 50px;
+    width: 670px;
+    border-bottom: 1px solid #D6DBDF ;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.p5{
+    margin: 0;
+    padding-top: 15px;
+    color: #D6DBDF;
+}
+.donate-plan{
+    margin-bottom: 100px;
+}
+.flexiable-container{
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    margin: 0 auto;
+}
+.content{
+    height: 340px;
+    width: 290px;
+    text-align: left;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+.content-padding{
+    padding: 30px;
+}
+.p6{
+    font-size: 18px;
+    font-weight: 600;
+}
+.p7{
+    text-align: justify;
+    color: #AAB7B8;
+}
+.color-1{
+    background-color: #E9F7EF ;
+}
+.color-2{
+    background-color: #FDEDEC;
+}
+.color-3{
+    background-color: #FEF9E7 ;
+}
+.img-1{
+    width: 70px;
+    height: 54px;
+}
+.donate-info{
+    margin-bottom: 100px;
+}
+.flex-2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85%;
+    margin: 0 auto;
+}
+.img-2{
+    width: 410px;
+    height: 400px;
+    border-radius: 8px;
+}
+.half-width{
+    width: 45%;
+}
+.left{
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 25vh;
+    background-color: #34495E ;
+}
+.p8{
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+    color:  #D35400;
+    font-weight: 700;
+    margin: 0;
+    padding-top: 30px;
+}
+.p9{
+    color: #212F3C ;
+    margin: 0;
+}
